@@ -6,7 +6,7 @@ transformers==4.44.2
 torch
 sentence-transformers==3.0.1
 
-faiss-cpu
+
 
 
 pypdf==4.3.1
@@ -18,4 +18,5 @@ numpy
 torch
 transformers
 sentence-transformers
+tokenizers==0.19.1
 
