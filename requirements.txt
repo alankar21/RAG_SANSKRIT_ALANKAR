@@ -18,5 +18,5 @@ numpy
 torch
 transformers
 sentence-transformers
-tokenizers==0.19.1
+
 
