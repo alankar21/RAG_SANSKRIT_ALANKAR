@@ -3,20 +3,14 @@ langchain-community==0.2.16
 langchain-text-splitters==0.2.4
 
 transformers==4.44.2
-torch
 sentence-transformers==3.0.1
 
+torch
+faiss-cpu
 
-
-
-pypdf==4.3.1
+numpy==1.26.4
 tqdm==4.66.5
+pypdf==4.3.1
+
 fastapi
 uvicorn
-faiss-cpu
-numpy
-torch
-transformers
-sentence-transformers
-
-
